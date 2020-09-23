@@ -1,0 +1,24 @@
+1
+"What is the last line of the movie Gone with the wind?"
+"Oh, Auntie Em, there's no place like home."
+"It wasn't the airplanes, it was beauty that killed the beast."
+"Th-that's all folks!"
+"After all, tomorrow is anoter day."
+1
+"What is the name of Microsoft Windows' co-founder?"
+"Paul Allen"
+"Bill Clinton"
+"Bill Gates"
+"Jerry Yang"
+2
+"Who is the CEO/founder of Yahoo! Inc.?"
+"Chio Masashuki"
+"Jerry Yang"
+"Richard Gregg"
+"Colin Stone"
+1
+"Who is the greatest boxer of all time?"
+"Mohammed Ali"
+"Cassius Clay"
+"Mike Tyson"
+"Sonny Lisbon"
